@@ -25,7 +25,7 @@ body {
 }
 
 .app {
-  padding: 1rem;
+  padding: 3rem 1rem 1rem 1rem;
 }
 
 .hour-picker-container {
